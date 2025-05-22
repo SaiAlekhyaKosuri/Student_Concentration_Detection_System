@@ -1,0 +1,9 @@
+# Ignore YOLO model weights file
+yolov8m.pt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder
+.venv/
